@@ -32,4 +32,9 @@
     1. git status 변경사항이 추적되지않는 내용이 빨강색으로 
     1. git add . 버전추적시작하면 
     1. git status
-    
+    1. git commit -m '프로젝트 버전관리'
+    1. git log 확인시 (HEAD-> master) 프로젝트 생성 
+    1.github열어서 repositories 생성후  주소카
+    1. git remote add origin https://github.com/kchair777/windows-text.git 원격저장소 연결 
+    1. git push origin master [new branch](master -> master)
+    1.git log시 변경된 내용  (HEAD->master, origin/master)
